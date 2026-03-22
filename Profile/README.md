@@ -5,4 +5,5 @@
 </div>
 <br>
 
-> <span>owned by <a href="https://github.com/eiey">kevin</a></span></br>
+> <span>Owned by <a href="https://github.com/eiey">eiey</a></span></br>
+> <span>Discord <a href="https://discord.gg/9aczPFDbaj">Server</a></span></br>
