@@ -6,4 +6,4 @@
 <br>
 
 > <span>Owned by <a href="https://github.com/eiey">eiey</a></span></br>
-> <span>Discord <a href="https://discord.gg/9aczPFDbaj">Server</a></span></br>
+> <span>Discord <a href="https://discord.gg/nsXv6s6Xyb">Server</a></span></br>
