@@ -2,7 +2,7 @@
   <img width="200px" src="icon.jpeg" />
   <br>
   <h1>pyvs</h1>
-  <h1>secret organization</h1>
+  <h1>private organization</h1>
 </div>
 <br>
 
