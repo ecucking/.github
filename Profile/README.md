@@ -6,5 +6,5 @@
 </div>
 <br>
 
-> <span>Owned by <a href="https://github.com/ceuq">Riri</a></span></br>
+> <span>Owned by <a href="https://github.com/xaet">Riri</a></span></br>
 > <span>Discord <a href="https://discord.gg/nsXv6s6Xyb">Server</a></span></br>
